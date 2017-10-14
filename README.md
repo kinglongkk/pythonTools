@@ -41,3 +41,6 @@ easy_install -m package-name
 复制代码
 代码如下:
 easy_install.exe rsa-3.1.1-py2.7.egg
+
+安装xlrd-1.0.0
+C:\Python27\Excel\xlrd-1.0.0>python setup.py install
