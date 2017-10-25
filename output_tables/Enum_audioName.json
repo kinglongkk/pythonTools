@@ -1,0 +1,107 @@
+{
+	"key_int": {
+		"audioName": "string"
+	},
+	"1": {
+		"audioName": "background"
+	},
+	"2": {
+		"audioName": "btn_click"
+	},
+	"6": {
+		"audioName": "start_compare"
+	},
+	"": {
+		"audioName": ""
+	},
+	"39": {
+		"audioName": "WULONG"
+	},
+	"40": {
+		"audioName": ""
+	},
+	"41": {
+		"audioName": "TWO_DOUBLE"
+	},
+	"42": {
+		"audioName": "SANTIAO"
+	},
+	"43": {
+		"audioName": "SHUNZI"
+	},
+	"44": {
+		"audioName": "TONGHUA"
+	},
+	"45": {
+		"audioName": "HULU"
+	},
+	"46": {
+		"audioName": "TIEZHI"
+	},
+	"47": {
+		"audioName": "TONGHUASHUN"
+	},
+	"48": {
+		"audioName": ""
+	},
+	"49": {
+		"audioName": "teshu6"
+	},
+	"50": {
+		"audioName": "teshu7"
+	},
+	"51": {
+		"audioName": "teshu3"
+	},
+	"52": {
+		"audioName": ""
+	},
+	"53": {
+		"audioName": "teshu4"
+	},
+	"54": {
+		"audioName": "teshu8"
+	},
+	"55": {
+		"audioName": "teshu2"
+	},
+	"56": {
+		"audioName": "teshu1"
+	},
+	"": {
+		"audioName": ""
+	},
+	"19": {
+		"audioName": "OX_1_0"
+	},
+	"20": {
+		"audioName": "OX_1_1"
+	},
+	"21": {
+		"audioName": "OX_1_2"
+	},
+	"22": {
+		"audioName": "OX_1_3"
+	},
+	"23": {
+		"audioName": "OX_1_4"
+	},
+	"24": {
+		"audioName": "OX_1_5"
+	},
+	"25": {
+		"audioName": "OX_1_6"
+	},
+	"26": {
+		"audioName": "OX_1_7"
+	},
+	"27": {
+		"audioName": "OX_1_8"
+	},
+	"28": {
+		"audioName": "OX_1_9"
+	},
+	"29": {
+		"audioName": "OX_1_10"
+	}
+}
