@@ -8,8 +8,17 @@
 	"2": {
 		"audioName": "btn_click"
 	},
+	"5": {
+		"audioName": "QINGCHUPAI"
+	},
 	"6": {
-		"audioName": "start_compare"
+		"audioName": "KAISHIBIPAI"
+	},
+	"7": {
+		"audioName": "SHENGLI"
+	},
+	"8": {
+		"audioName": "SHIBAI"
 	},
 	"": {
 		"audioName": ""
